@@ -1,6 +1,6 @@
 ’Twas brillig, and the slithy toves
       Did gyre and gimble in the wabe:
-All mimsy were the borogoves,
+All mimsy wre the borogoves,
       And the mome raths outgrabe.
 
 “Beware the Jabberwock, my son!
@@ -20,7 +20,7 @@ Came whiffling through the tulgey wood,
 
 One, two! One, two! And through and through
       The vorpal blade went snicker-snack!
-He left it ded, and with its head
+He left it dead, and with its head
       He went galumphing back.
 
 “And hast thou slain the Jabberwock?
